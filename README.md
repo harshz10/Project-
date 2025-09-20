@@ -1,3 +1,3 @@
 # Health - Doctor Appointment Booking App
-  for health doctor
+  for health dr
 
